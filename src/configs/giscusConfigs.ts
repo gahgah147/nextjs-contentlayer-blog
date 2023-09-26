@@ -1,6 +1,6 @@
 export const giscusConfigs = {
-  repo: 'Kamigami55/nextjs-tailwind-contentlayer-blog-starter' as `${string}/${string}`,
-  repoId: 'R_kgDOH5XSVA',
+  repo: 'gahgah147/nextjs-contentlayer-blog' as `${string}/${string}`,
+  repoId: 'R_kgDOKYTGiQ',
   category: 'Announcements',
-  categoryId: 'DIC_kwDOH5XSVM4CRfr0',
+  categoryId: 'DIC_kwDOKYTGic4CZnmB',
 };
